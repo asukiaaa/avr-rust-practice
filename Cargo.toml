@@ -1,0 +1,6 @@
+[package]
+name = "avr-rust-practice"
+version = "0.1.0"
+authors = ["asuki <asukiaaa@gmail.com>"]
+
+[dependencies]
